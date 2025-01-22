@@ -1,5 +1,5 @@
 {
-  "name": "user-app",
+  "name": "react-native-gluestack-ui-starter",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {

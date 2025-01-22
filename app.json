@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "user-app",
-    "slug": "user-app",
+    "name": "react-native-gluestack-ui-starter",
+    "slug": "react-native-gluestack-ui-starter",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
